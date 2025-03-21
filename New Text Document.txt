@@ -1,1 +1,0 @@
-newman run Munia_Mostary_Mishu_01407786860.postman_collection.json -e Munia_Mostary_Mishu_01407786860.postman_environment.json -r cli,htmlextra
